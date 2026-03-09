@@ -1,25 +1,21 @@
-<table border="0">
-  <tr>
-    <td>
-      <div align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ccc&size=24&vCenter=true&width=600&lines=Olá,+eu+sou+Pedro+Otavio;No+momento+estou+focado+em+Back-End+;E+aqui+começa+um+futuro+desenvolvedor+Full-Stack++" />
+
+---
 
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "Pedr003";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Pedro Otavio Ramos Lima";
+  area = "Estudante de programação";
+  trabalho = "Em busca da primeira oportunidade";
+  local = "Mauá - SP, Brasil";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = [ "HTML", "CSS", "JavaScript"];
+  bibliotecas = ["React"];
+  frameworks = [];
 }
 ```
-</td>
-<td>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-</td>
+
