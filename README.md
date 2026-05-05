@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="3" width="100%">
+  <img src="https://img.shields.io/badge/- -7D42B8?style=flat" height="3" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=4000&color=959595&background=FFFFFF00&vCenter=true&repeat=false&width=700&height=40&lines=+Hi%2C+I'm+Pedro+Otavio.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=4000&color=959595&background=FFFFFF00&vCenter=true&repeat=false&width=700&height=40&lines=+Hi%2C+I'm+Pedro+Otavio.)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+  <img src="https://img.shields.io/badge/- -7D42B8?style=flat" height="1" width="100%">
 </p>
 
 ```js
@@ -20,7 +20,7 @@ class SobreMim extends Desenvolvedor {
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+  <img src="https://img.shields.io/badge/- -7D42B8?style=flat" height="1" width="100%">
 </p>
 
 ### S K I L L S
@@ -42,7 +42,7 @@ class SobreMim extends Desenvolvedor {
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+  <img src="https://img.shields.io/badge/- -7D42B8?style=flat" height="1" width="100%">
 </p>
 
 ### C U R R E N T &nbsp; F O C U S
@@ -53,7 +53,7 @@ class SobreMim extends Desenvolvedor {
 - 🎯 Goal: Become a Full Stack Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="3" width="100%">
+  <img src="https://img.shields.io/badge/- -7D42B8?style=flat" height="3" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=3000&color=959595&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=3000&color=959595&center=true&vCenter=true&width=1000&height=40&lines=Welcome+to+my+profile)
